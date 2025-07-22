@@ -40,13 +40,12 @@ The game continues until the computer correctly guesses the number.
 🛠️ Future Improvements
 
 
-Add GUI using tkinter
+- Add GUI using tkinter
+- Track average number of guesses
+- Voice-based feedback using speech_recognition
+- Multiplayer mode
 
-Track average number of guesses
-
-Voice-based feedback using speech_recognition
-
-Multiplayer mode
+---
 
 
 
@@ -54,13 +53,12 @@ Multiplayer mode
 
 
 
-
-Think of a number between 1 and 100.
-Computer guesses: 50
-Is it (h/l/c)? l
-Computer guesses: 75
-Is it (h/l/c)? h
-Computer guesses: 62
-Is it (h/l/c)? c
-Yay! The computer guessed it in 3 tries!
+- Think of a number between 1 and 100.
+- Computer guesses: 50
+- Is it (h/l/c)? l
+- Computer guesses: 75
+- Is it (h/l/c)? h
+- Computer guesses: 62
+- Is it (h/l/c)? c
+- Yay! The computer guessed it in 3 tries!
 
